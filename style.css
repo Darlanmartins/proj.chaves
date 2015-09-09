@@ -93,5 +93,15 @@ p  {
 	float: center;
 	margin-left: 35%;
 }	
-	
-	
+.bordachiquinha{
+ border-style: solid;
+ border-color: green;
+}
+.bordamadruga{
+ border-style: solid;
+ border-color: blue;
+}
+.bordaquico{
+ border-style: solid;
+ border-color: red;	
+}	
