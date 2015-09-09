@@ -1,0 +1,97 @@
+body{
+	background-color: #OOOOOO;
+	font-family: Tahoma;
+	font-size: 15px;
+}
+h1{ 
+	background-color: #008000;
+	color: white;
+	font-family: Tahoma;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: left; 
+}
+h2  { 
+    background-color: #008000;
+	color: white;
+	font-family: Tahoma;
+	font-size: 35px;
+	font-weight: oblique;
+	text-align: left; 
+}
+p  { 
+    font-family: Tahoma;
+	font-size: 20px;
+	text-align: justify; 
+}
+#cabecalho{
+	text-decoration: underline;
+	font-style: italic;
+	text-align: right;
+	font-size: 15px;	
+}
+.atormadruga{
+	color: blue;	
+}
+.atrizchiquinha{
+	color: #00FF7F;
+}
+.atorquico{
+	color: red;
+}
+.elencofotolegenda{
+	background-position: right;
+	text-align: right;
+}
+#bordaquico {
+	border-width: 15px;
+	border-color: #FF0000;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right; 20px;
+}
+.bordachiquinha{
+	border-width: 15px;
+	border-color: #FFOOOO;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right; 20px;
+}
+.bordamadruga{
+	border-width: 15px;
+	border-color: blue;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right; 20px;
+}
+#margemindex{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right; 20px;
+}	
+.quico1{
+		background-color: red;
+}
+.madruga1{
+		background-color: blue;
+}
+.chiquinha1{
+		background-color: #00FF7F;
+}
+.bordachiquinha{
+		border-color: green;
+}
+.flut{
+	float: center;
+	margin-left: 35%;
+}
+.txtel{
+	float: center;
+	margin-left: 35%;
+}	
+	
+	
